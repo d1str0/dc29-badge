@@ -14,6 +14,9 @@ Choose wisely...
 
 On the back of the badge is some binary that reads "red", just below this is a couple of metallic pads that are joined by a small bridge. *Disconnect* these with a sharp object and then powercycle your badge. You should see a new message.
 
+Example image: 
+https://cdn.discordapp.com/attachments/872984195767627827/872985175645106206/image0.jpg
+
 defcon.org/signal/WhatIfIToldYou/YourJourneyBegins
 
 Note this URL doesn't work and should instead be defcon.org/signal/YourJourneyBegins
