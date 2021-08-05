@@ -33,3 +33,9 @@ Connect the wide port on the side of the badge to another's port while both are 
 
 ### Digitally
 When connected to the terminal of the badge, you can generate requests for others to connect to YOU. Press '4' to generate the request and press '5' to enter the other badge's response. You will then want to ask for someone elses request. Press '5' to enter their request, and then send them the generated response.
+
+## Debugging
+
+Known issues:
+
+1. Some badges are known to output invalid codes, usually [31 chars long instead of expected 32](https://github.com/d1str0/dc29-badge/issues/1). No known fix.
