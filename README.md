@@ -39,3 +39,8 @@ When connected to the terminal of the badge, you can generate requests for other
 Known issues:
 
 1. Some badges are known to output invalid codes, usually [31 chars long instead of expected 32](https://github.com/d1str0/dc29-badge/issues/1). No known fix.
+
+## Pro-Tips
+
+1. Remap one of your keys to output your request code.
+2. Remap a key to your personal github to land a new job!
