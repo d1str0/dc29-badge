@@ -16,3 +16,18 @@ For *macOS*, you can run `screen /dev/tty.usbmodem123451 9600` which will presen
 To play Simon says, 
 
 * Simon says to power on your badge while holding the top-left button
+
+## Connecting / Pairing / Interfacing
+
+```
+Number of Badges Connected: 25
+Badge Types Collected: Human,Goon,Creator,Speaker,
+```
+
+To connect to another badge you have two options, physically and digitally.
+
+### Physically
+Connect the wide port on the side of the badge to another's port while both are powered on in the normal mode (non-simon, non-flash).
+
+### Digitally
+When connected to the terminal of the badge, you can generate requests for others to connect to YOU. Press '4' to generate the request and press '5' to enter the other badge's response. You will then want to ask for someone elses request. Press '5' to enter their request, and then send them the generated response.
