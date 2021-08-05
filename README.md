@@ -9,7 +9,7 @@ To get started, please update your firmware.
 
 ## Connecting from computer
 
-For *macOS*, you can run `screen /dev/tty.usbmodem123451 9600` which will present a black screen, then press enter. For *linux*, use the previous command with 'sudo'. 
+For *macOS*, you can run `screen /dev/tty.usbmodem123451 9600` which will present a black screen, then press enter. For *linux*, use the previous command with 'sudo'.  For *Windows* use your favorite terminal (Putty/Mobaxterm/etc.), new Serial session, COM3 (maybe COM4 etc.) and typically 9600 speed, then you should see a black scrren, press enter.
 
 ## Simon says
 
