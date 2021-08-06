@@ -11,7 +11,7 @@ The goal of Step 3 is to choose a pill, red or blue. You are presented with an i
 ## Severing the lead to the "red" binary box
 On the back of the badge is some binary that reads "red", just below this is a couple of metallic pads that are joined by a small bridge. *Disconnect* these with a sharp object and then powercycle your badge. You should see a new message.
 
-![An example of a poor job](images/Step3-1.jpg)
+![An example of a good job](https://cdn.discordapp.com/attachments/872984195767627827/872985175645106206/image0.jpg)
 
 
 On the back of the badge is some binary that reads "red", just below this is a couple of metallic pads that are joined by a small bridge. *Disconnect* these with a sharp object and then powercycle your badge. You should see a new message.
