@@ -41,17 +41,3 @@ some people still think it's the best.
 
 This hint refers to the first hotel DEF CON was held at: `AlexisPark`
 https://defcon.org/signal/YourJourneyBegins/AlphabetShift/SandsSaharaAladdin/MC56F8006VLC/VendorSpeakerArtistCreatorHumanPressGoon/WatchYourHead/AlexisPark/
-
-
-
-## A hint in the badge
-
-There is another vigenere encrypted message that can be found inside the badge when taken apart:
-
-```
-zi fts gki xkuadp
-```
-![encrypted message on badge](badge-inside.jpg)
-
-
-This message also uses the same `DEFCON` key, perhaps as a hint.
