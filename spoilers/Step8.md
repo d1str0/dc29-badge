@@ -10,4 +10,7 @@ This is in reference to the back of the badge where several TVs are connected by
 
 When you connect these pads, you reconnect "the signal" and are given a new clue in the terminal of the badge. /WatchYourHead
 
+If you want to skip soldering, use a pencil to scribble in the space between the pads to connect them.
+
+
 https://defcon.org/signal/YourJourneyBegins/AlphabetShift/SandsSaharaAladdin/MC56F8006VLC/VendorSpeakerArtistCreatorHumanPressGoon/WatchYourHead
