@@ -8,3 +8,8 @@ Frame 1
 Frame 2
 
 Title of page "1 2 4" and the gif seems to have 2 frames to it.
+
+This is the awnser. Still loooking up its origins
+https://defcon.org/signal/YourJourneyBegins/AlphabetShift/SandsSaharaAladdin/MC56F8006VLC/VendorSpeakerArtistCreatorHumanPressGoon/
+
+
