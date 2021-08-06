@@ -6,6 +6,31 @@ Here we are given a Year - Page - Line - Word - Letter, and to decode, we use th
 
 20-15-40-3-7 = DEFCON 20, Page 15, Line 40, Word 3, and Letter 7 = "e"
 
+The DEFCON programs can be found on the media server.
+* DEFCON 01 https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+* DEFCON 02 https://media.defcon.org/DEF%20CON%202/DEF%20CON%202%20program.pdf
+* DEFCON 03 https://media.defcon.org/DEF%20CON%203/DEF%20CON%203%20program.pdf
+* DEFCON 07 https://media.defcon.org/DEF%20CON%207/DEF%20CON%207%20program.pdf
+* DEFCON 09 https://media.defcon.org/DEF%20CON%209/DEF%20CON%209%20program.pdf
+* DEFCON 10 https://media.defcon.org/DEF%20CON%2010/DEF%20CON%2010%20program.pdf
+* DEFCON 11 https://media.defcon.org/DEF%20CON%2011/DEF%20CON%2011%20program.pdf
+* DEFCON 12 https://media.defcon.org/DEF%20CON%2012/DEF%20CON%2012%20program.pdf
+* DEFCON 13 https://media.defcon.org/DEF%20CON%2013/DEF%20CON%2013%20program.pdf
+* DEFCON 14 https://media.defcon.org/DEF%20CON%2014/DEF%20CON%2014%20program.pdf
+* DEFCON 15 https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20program.pdf
+* DEFCON 16 https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20program.pdf
+* DEFCON 17 https://media.defcon.org/DEF%20CON%2017/DEF%20CON%2017%20program.pdf
+* DEFCON 18 https://media.defcon.org/DEF%20CON%2018/DEF%20CON%2018%20program.pdf
+* DEFCON 19 https://media.defcon.org/DEF%20CON%2019/DEF%20CON%2019%20program.pdf
+* DEFCON 20 https://media.defcon.org/DEF%20CON%2020/DEF%20CON%2020%20program.pdf
+* DEFCON 21 https://media.defcon.org/DEF%20CON%2021/DEF%20CON%2021%20program.pdf
+* DEFCON 22 https://media.defcon.org/DEF%20CON%2022/DEF%20CON%2022%20program.pdf
+* DEFCON 23 https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20program.pdf
+* DEFCON 24 https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20program.pdf
+* DEFCON 25 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20program.pdf
+* DEFCON 26 https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20program.pdf
+* DEFCON 27 https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20program.pdf
+
 After decoding all the letters, you get 
 
 "emailthedecodedbottomboardtoyouhadtheanswerthewholetime@mkfactorcom"
