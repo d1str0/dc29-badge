@@ -12,4 +12,16 @@ After decoding all the letters, you get
 
 Or, "email the decoded bottom board to 'youhadtheanswerthewholetime@mkfactor.com' "
 
-Where the decoded bottom board is "we are the signal" gotten from decoding the vigenere cipher located on the inside of the badge on the bottom board.
+Another vigenere encrypted message can be found inside the badge when taken apart:
+
+![encrypted message inside badge](badge-inside.jpg)
+
+```
+zi fts gki xkuadp
+```
+
+This message also uses the same `DEFCON` key as the previous vigenere cipher and decodes to:
+
+```
+we are the signal
+```
