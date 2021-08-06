@@ -15,7 +15,7 @@ The DEFCON programs can be found on the media server.
 * DEFCON 10 https://media.defcon.org/DEF%20CON%2010/DEF%20CON%2010%20program.pdf
 * DEFCON 11 https://media.defcon.org/DEF%20CON%2011/DEF%20CON%2011%20program.pdf
 * DEFCON 12 https://media.defcon.org/DEF%20CON%2012/DEF%20CON%2012%20program.pdf
-* DEFCON 13 https://media.defcon.org/DEF%20CON%2013/DEF%20CON%2013%20program.pdf
+* DEFCON 13 https://media.defcon.org/DEF%20CON%2013/DEF%20CON%2013%20Program.pdf
 * DEFCON 14 https://media.defcon.org/DEF%20CON%2014/DEF%20CON%2014%20program.pdf
 * DEFCON 15 https://media.defcon.org/DEF%20CON%2015/DEF%20CON%2015%20program.pdf
 * DEFCON 16 https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20program.pdf
@@ -26,7 +26,7 @@ The DEFCON programs can be found on the media server.
 * DEFCON 21 https://media.defcon.org/DEF%20CON%2021/DEF%20CON%2021%20program.pdf
 * DEFCON 22 https://media.defcon.org/DEF%20CON%2022/DEF%20CON%2022%20program.pdf
 * DEFCON 23 https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20program.pdf
-* DEFCON 24 https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20program.pdf
+* DEFCON 24 https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20Program.pdf
 * DEFCON 25 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20program.pdf
 * DEFCON 26 https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20program.pdf
 * DEFCON 27 https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20program.pdf
